@@ -1,6 +1,6 @@
 # Menu Hamburguer
 --------
-### projeto criado para um dos clientes da agencia geear com a idieia de ser um menu digital onde sera direcionado para o whatsapp com o foco no lançamento dos 3 novos hamburguers.
+### projeto criado para um dos clientes da agencia geear com a ideia de ser um menu digital onde sera direcionado para o whatsapp com o foco no lançamento dos 3 novos hamburguers.
 ----
 ### todo design e codigo feito por mim.
 ---
