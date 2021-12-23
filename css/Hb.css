@@ -1,0 +1,103 @@
+
+.descextra{
+      font-size: 1.2rem;
+      text-align:center;
+      -webkit-text-stroke: 1.2px;
+      -webkit-text-stroke-color: #7446AC;
+      color: #fff;
+      }
+*{
+      font-family: 'Alfa Slab One', cursive;
+      margin: 0;
+      padding: 0;
+}
+html, body {
+      max-width: 100%;
+      overflow-x: hidden;
+}
+body{
+      background-image: url(/img/espaco.jpg);
+      background-size: 100%;
+      background-repeat: repeat;
+}
+.tittle-pronto{
+      color: #fff;
+      text-align: center;
+      font-size: 1.5rem;
+}
+.aviso{
+      text-align: center;
+      font-size: 0.9rem;
+      color: #fff;
+}
+.imgplanetario{
+      filter: drop-shadow(0px -4px 4px rgba(0, 0, 0, 0.25));
+      -webkit-filter: drop-shadow(0px -4px 4px rgba(0, 0, 0, 0.25));
+}
+.cardshamb{
+      background-color:#c7c7c7;
+}
+.titletemos{
+      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+      -webkit-text-stroke-width: 1.2px;
+      -webkit-text-stroke-color: #7446AC;
+      text-align: center;
+      font-size: 1.5rem;
+      color: #fff;
+      -webkit-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.nomehamb{
+      -webkit-text-stroke-width: 1.2px;
+      -webkit-text-stroke-color: #6657A5;
+      font-size: 1.5rem;
+      color: #fff;
+}
+.btn{
+      margin-bottom: 1.3rem;
+      height: 3rem;
+}
+.deschamb{
+      font-size: 0.94rem;
+      text-align:center;
+      -webkit-text-stroke: 1px;
+      -webkit-text-stroke-color: #7446AC;
+      color: #fff;
+}
+@media (min-width: 576px) {  
+      .aviso{
+            font-size: 1.2rem;
+            }
+      .deschamb{
+            -webkit-text-stroke-width: 1.2px;
+            font-size: 1.09rem;
+      }
+      .nomehamb{
+            text-align: left;
+            white-space: nowrap;
+            height: 1.5rem;
+            font-size: 1.6rem;
+      }
+      .divnomehamb{
+            height: 1.5rem;
+      }  
+}
+@media (min-width: 992px) {  
+      .aviso{
+            font-size: 1.2rem;
+      }
+      .deschamb{
+            text-align: left;
+            font-size: 1.2rem;
+      }
+      .nomehamb{
+            white-space: nowrap;
+            height: 1.5rem;
+            font-size: 1.6rem;
+      }
+      .btn{
+            height: 2.8rem;
+      }
+      .textbutton{
+            font-size: 1.6rem;
+      }
+}
