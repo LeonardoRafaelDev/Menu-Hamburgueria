@@ -1,10 +1,34 @@
-# Menu Hamburguer
---------
-### projeto criado para um dos clientes da agencia geear com a ideia de ser um menu digital onde sera direcionado para o whatsapp com o foco no lançamento dos 3 novos hamburguers.
-----
-### todo design e codigo feito por mim.
----
-### para usar basta estartar o arquivo index.html projeto feito apenas com html css e bootstrap
+
+<h1 align="center"> Menu Hamburguer espacial  </h1>
+
+### project created to be a digital menu where when choosing the hamburger, it will be directed to whatsapp with the focus of the launch of 3 new hamburgers and all menu with "space" theme.
+
+
+
+
+<h1 align="center">
+ <img alt="readme" src="https://media.giphy.com/media/YysG3nLzpKZe5xueuf/giphy.gif">
+</h1>
+### ⌛ Running the Project
+
+```bash
+# clone do repositorio
+     $ git clone https://github.com/LeonardoRafaelDev/Menu-Hamburgueria
+# acesse a pasta do projeto
+     $ cd Menu-Hamburgueria
+# e basta executar o arquivo .html
+      $ firefox index.html
+```
+### 🛠️ Technologies
+The following technologies were used:
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+<h3 align="center">
+ All Design and Code made by me with 💜.
+</h3>
+
+
 
 
 
